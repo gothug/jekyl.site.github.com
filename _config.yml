@@ -1,0 +1,13 @@
+auto: true
+markdown: rdiscount
+pygments: true
+
+title: Project Pages
+
+permalink: /:year/:month/:day/:title/
+
+author:
+    name: Vasily Kozhukhovskiy
+    email: kojuhovskiy@gmail.com
+    github: gothub
+    gravatar: http://www.gravatar.com/avatar/5b7d3122776b44cfb18ed7aa865804a1.png
